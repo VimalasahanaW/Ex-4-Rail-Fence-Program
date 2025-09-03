@@ -1,4 +1,4 @@
-# Ex-4 Rail-Fence-Program
+# Ex-5 IMPLEMENTATION OF RAIL FENCE CIPHER 
 ## Name:VIMALA SAHANA W
 ## Reg no:212223040241
 ## Date:03-09-25
