@@ -60,4 +60,6 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 <img width="434" height="189" alt="image" src="https://github.com/user-attachments/assets/b7242d79-4106-46fc-b661-9e8135f2a0fd" />
 
 
-# RESULT
+# RESULT:
+The program implementing the Rail Fence cipher for encryption and decryption has been 
+successfully executed, and the results have been verified.
